@@ -1,0 +1,15 @@
+C:\C-Sharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\C-Sharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\C-Sharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\C-Sharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\C-Sharp\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\C-Sharp\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll
